@@ -1,30 +1,39 @@
-**🛍️ Dashboard de Vendas - Produtos Eletrônicos**  
+# 🛒 Dashboard de Vendas
 
-## **📌 Visão Geral**  
-Análise de desempenho de vendas por marca, produto e região, com foco em faturamento e volume de transações.  
+Este dashboard em Power BI foi criado para analisar o desempenho de vendas de uma empresa de produtos diversos, com dados fictícios e estrutura voltada para insights estratégicos.
+
+## 🎯 Objetivo do Projeto
+
+Apresentar de forma clara:
+- O produto mais vendido
+- Distribuição geográfica de vendas
+- Análise por marcas
+- Faturamento total e mensal
+- Evolução de vendas ao longo do tempo
+
+## 🧩 Funcionalidades
+
+✅ **Métricas principais (cards):**
+- Produto + vendido
+- Faturamento Total
+- Faturamento por Marca
+- Quantidade vendida por mês/ano
+
+✅ **Gráficos e mapas:**
+- **Mapa de Vendas por País:** distribuição geográfica das vendas
+- **Gráfico de Faturamento por Marca:** destaque para as marcas mais lucrativas
+- **Evolução de Vendas:** acompanhamento da quantidade vendida ao longo do ano
+
+## 🖼️ Exemplo visual
+
+![Dashboard de Vendas](./Dashboard%20Vendas.png)
+
+## 📌 Observações
+
+- Os dados utilizados são fictícios e utilizados apenas para fins educacionais e de portfólio.
+- Projeto desenvolvido no Power BI Desktop (.pbix)
+- Design visual pensado para clareza, objetividade e estética moderna
 
 ---
 
-## **📊 KPIs Principais**  
-| Métrica               | Valor            |  
-|-----------------------|------------------|  
-| **Faturamento Total** | R$ 64,17 Mi      |  
-| **Produto Top**      | DVD M360 Preto   |  
-| **Marca Líder**      | Contos (R$ 19,6M)|  
-
----
-
-## **📈 Insights Destacados**  
-- **Contos** foi a marca com maior faturamento (R$ 19,6 Mi).  
-- **Tendência mensal**: Pico de vendas em [insira mês específico se visível no print].  
-
----
-
-## **🛠️ Tecnologias Utilizadas**  
-- **Power BI** (Hierarquias para drill-down por região/marca).  
-- **Visualizações**: Treemaps, gráficos de barras e tabelas.  
-
---- 
-
-## **📝 Observações**  
-Dados consolidados de múltiplos canais de venda.  
+🔗 Projeto criado por [Luana Alves](https://github.com/Luaninhadejulho) para fins de demonstração de habilidades em análise e visualização de dados.
