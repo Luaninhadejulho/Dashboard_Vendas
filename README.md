@@ -26,7 +26,7 @@ Apresentar de forma clara:
 
 ## 🖼️ Exemplo visual
 
-![Dashboard de Vendas](./Dashboard%20Vendas.png)
+![Dashboard de Vendas](./Overview%20Vendas.png)
 
 ## 📌 Observações
 
